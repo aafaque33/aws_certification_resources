@@ -14,6 +14,8 @@
 
 > ### IAM (Identity Access Manager)
 
+* [Active Directory Federation](https://aws.amazon.com/blogs/security/tag/saml/)
+
 > ### EC2 (Elastic Compute Coud)
 
 * [Instance Types (DR MC GIFT PX) or (DRM CGI FTP X)](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-types.html?shortFooter=true)
