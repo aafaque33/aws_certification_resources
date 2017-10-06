@@ -5,7 +5,6 @@
 ![Developer Associate Logo][img1]
 
 ## Important Topics for AWS Certification Exams
----
 
 * [White Papers](https://aws.amazon.com/whitepapers/)
 * [Tips](https://read.acloud.guru/what-you-need-to-get-aws-certified-5937e613b10f)
@@ -40,15 +39,14 @@
 
 
 ## Books
----
+
 * [Amazon Web Services in Action 1st Edition](https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617292885/ref=sr_1_4?s=books&ie=UTF8&qid=1506368843&sr=1-4&keywords=aws+developer+associate)
 * [AWS Certified Solutions Architect Official Study Guide: Associate Exam 1st Edition](https://www.amazon.com/Certified-Solutions-Architect-Official-Study/dp/1119138558/)
 
 ## Videos
----
 
 ## Labs
----
+
 
 
 ```python
