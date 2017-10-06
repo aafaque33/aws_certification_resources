@@ -1,7 +1,7 @@
 
 # Study Guide - AWS Developer Associate Certification
 
-[img1]: Developer.png "devcert"
+[img1]: StudyGuideAWS.png "devcert"
 ![Developer Associate Logo][img1]
 
 ## Important Topics for AWS Certification Exams
