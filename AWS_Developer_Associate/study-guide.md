@@ -12,11 +12,9 @@
 * [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
 * [AWS Certification Exam Cheat Sheet](http://jayendrapatil.com/tag/cheat-sheet/)
 
-### IAM (Identity Access Manager)
----
+> ### IAM (Identity Access Manager)
 
-### EC2 (Elastic Compute Coud)
----
+> ### EC2 (Elastic Compute Coud)
 
 * [Instance Types (DR MC GIFT PX) or (DRM CGI FTP X)](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-types.html?shortFooter=true)
 * [Instance purchasing options - Special topic Spot Instances](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-purchasing-options.html?shortFooter=true)
@@ -29,8 +27,7 @@
 * #### ELB (Elastic Load Balancing)
     * [Types of Load Balancers (which one to use when)](https://aws.amazon.com/elasticloadbalancing/faqs/)
 
-### S3 (Simple Storage Service)
----
+> ### S3 (Simple Storage Service)
 
 * [S3 valid endpoint names](http://docs.aws.amazon.com/general/latest/gr/rande.html#s3_region) or [Styles of accessing the S3 bucket](http://docs.aws.amazon.com/AmazonS3/latest/dev/UsingBucket.html#access-bucket-intro)
 * [Optimizing S3 file names for heavy load](http://docs.aws.amazon.com/AmazonS3/latest/dev/request-rate-perf-considerations.html)
