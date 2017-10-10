@@ -37,7 +37,6 @@
 * [S3's Data consistency model](http://jayendrapatil.com/aws-s3-data-consistency-model/)
 * [S3 Frequently asked questions - very important](https://aws.amazon.com/s3/faqs/)
 
-
 ## Books
 
 * [Amazon Web Services in Action 1st Edition](https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617292885/ref=sr_1_4?s=books&ie=UTF8&qid=1506368843&sr=1-4&keywords=aws+developer+associate)
