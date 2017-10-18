@@ -35,7 +35,7 @@
 * [Optimizing S3 file names for heavy load](http://docs.aws.amazon.com/AmazonS3/latest/dev/request-rate-perf-considerations.html)
 * [Cross-Origin Resource Sharing](http://docs.aws.amazon.com/AmazonS3/latest/dev/cors.html)
 * [S3's Data consistency model](http://jayendrapatil.com/aws-s3-data-consistency-model/)
-* [S3 Object Versioning](http://docs.aws.amazon.com/AmazonS3/latest/dev/ObjectVersioning.html)
+* [S3 Object Versioning](http://docs.aws.amazon.com/AmazonS3/latest/dev/ObjectVersioning.html) or [S3 Versioning](https://docs.aws.amazon.com/AmazonS3/latest/dev/Versioning.html)
 * [S3 Frequently asked questions - very important](https://aws.amazon.com/s3/faqs/)
 
 ## Books
