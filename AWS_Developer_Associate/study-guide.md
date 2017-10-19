@@ -40,7 +40,7 @@
 
 > ### DynamoDB
 
-*
+* [Throughput capacity for DynamoDB reads and writes](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.ProvisionedThroughput.html)
 *
 
 ## Books
