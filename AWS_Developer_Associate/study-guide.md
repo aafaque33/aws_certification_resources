@@ -38,6 +38,11 @@
 * [S3 Object Versioning](http://docs.aws.amazon.com/AmazonS3/latest/dev/ObjectVersioning.html) or [S3 Versioning](https://docs.aws.amazon.com/AmazonS3/latest/dev/Versioning.html)
 * [S3 Frequently asked questions - very important](https://aws.amazon.com/s3/faqs/)
 
+> ### DynamoDB
+
+*
+*
+
 ## Books
 
 * [Amazon Web Services in Action 1st Edition](https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617292885/ref=sr_1_4?s=books&ie=UTF8&qid=1506368843&sr=1-4&keywords=aws+developer+associate)
