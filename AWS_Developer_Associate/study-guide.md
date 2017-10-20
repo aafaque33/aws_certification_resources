@@ -41,6 +41,7 @@
 > ### DynamoDB
 
 * [Throughput capacity for DynamoDB reads and writes](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.ProvisionedThroughput.html)
+* [Limits in DynamoDB](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Limits.html#limits-attributes)
 * [DynamoDB Frequently asked questions - Very important for AWS Developer Associate Exam](https://aws.amazon.com/dynamodb/faqs/)
 
 ## Books
