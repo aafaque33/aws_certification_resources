@@ -20,6 +20,7 @@
 
 * [Instance Types (DR MC GIFT PX) or (DRM CGI FTP X)](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-types.html?shortFooter=true)
 * [Instance purchasing options - Special topic Spot Instances](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-purchasing-options.html?shortFooter=true)
+* [Improve EC2 instance performance](https://www.datadoghq.com/blog/top-5-ways-to-improve-your-aws-ec2-performance/)
 * [Instance Metadata and User Data](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
 
 * #### EBS (Elastic Block Store)
