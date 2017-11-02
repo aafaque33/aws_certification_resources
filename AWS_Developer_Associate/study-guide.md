@@ -47,10 +47,15 @@
 
 > ### SQS (Simple Queue Service)
 
-* [Standard Queues](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/standard-queues.html)
-* [FIFO Queues](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/FIFO-queues.html)
-* [Best Practices -Reducing Costs](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/general-recommendations.html#reducing-costs)
-* [Message Limits](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/limits-messages.html)
+* [Standard queues](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/standard-queues.html)
+* [FIFO queues](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/FIFO-queues.html)
+* [Best practices - reducing costs](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/general-recommendations.html#reducing-costs)
+* [Message limits](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/limits-messages.html)
+
+> ### SNS (Simple Notification Service)
+
+* [Common scenarios](http://docs.aws.amazon.com/sns/latest/dg/SNS_Scenarios.html)
+* [Message and json format](http://docs.aws.amazon.com/sns/latest/dg/json-formats.html)
 
 ## Books
 
