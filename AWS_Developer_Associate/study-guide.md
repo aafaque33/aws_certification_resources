@@ -45,6 +45,11 @@
 * [Limits in DynamoDB](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Limits.html#limits-attributes)
 * [DynamoDB Frequently asked questions - Very important for AWS Developer Associate Exam](https://aws.amazon.com/dynamodb/faqs/)
 
+> ### SQS (Simple Queue Service)
+
+* [Standard Queues](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/standard-queues.html)
+* [FIFO Queues](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/FIFO-queues.html)
+
 ## Books
 
 * [Amazon Web Services in Action 1st Edition](https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617292885/ref=sr_1_4?s=books&ie=UTF8&qid=1506368843&sr=1-4&keywords=aws+developer+associate)
