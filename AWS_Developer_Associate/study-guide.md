@@ -49,6 +49,8 @@
 
 * [Standard Queues](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/standard-queues.html)
 * [FIFO Queues](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/FIFO-queues.html)
+* [Best Practices -Reducing Costs](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/general-recommendations.html#reducing-costs)
+* [Message Limits](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/limits-messages.html)
 
 ## Books
 
