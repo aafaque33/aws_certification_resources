@@ -57,6 +57,10 @@
 * [Common scenarios](http://docs.aws.amazon.com/sns/latest/dg/SNS_Scenarios.html)
 * [Message and json format](http://docs.aws.amazon.com/sns/latest/dg/json-formats.html)
 
+> ### Route 53
+
+* [Alias Record vs CNAME](http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-alias.html)
+
 ## Books
 
 * [Amazon Web Services in Action 1st Edition](https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617292885/ref=sr_1_4?s=books&ie=UTF8&qid=1506368843&sr=1-4&keywords=aws+developer+associate)
