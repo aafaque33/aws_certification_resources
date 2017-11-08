@@ -60,6 +60,7 @@
 > ### Route 53
 
 * [Alias Record vs CNAME](http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-alias.html)
+* [Routing Policies](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
 
 ## Books
 
