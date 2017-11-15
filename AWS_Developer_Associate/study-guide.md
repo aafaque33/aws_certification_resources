@@ -68,6 +68,7 @@
 * [VPC limits](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Appendix_Limits.html)
 * [VPC peering](http://docs.aws.amazon.com/AmazonVPC/latest/PeeringGuide/Welcome.html)
 * [Default VPC and default subnets](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/default-vpc.html)
+* [Nat gateway vs Nat instances](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/vpc-nat-comparison.html)
 
 ## Books
 
