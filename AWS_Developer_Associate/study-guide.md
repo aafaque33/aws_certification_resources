@@ -59,14 +59,15 @@
 
 > ### Route 53
 
-* [Alias Record vs CNAME](http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-alias.html)
-* [Routing Policies](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
+* [Alias record vs CNAME](http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-alias.html)
+* [Routing policies](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
 
 > ### VPC (Virtual Private Cloud)
 
-* [VPC Common Scenarios](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Scenarios.html)
-* [VPC Limits](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Appendix_Limits.html)
-* [VPC Peering](http://docs.aws.amazon.com/AmazonVPC/latest/PeeringGuide/Welcome.html)
+* [VPC common scenarios](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Scenarios.html)
+* [VPC limits](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Appendix_Limits.html)
+* [VPC peering](http://docs.aws.amazon.com/AmazonVPC/latest/PeeringGuide/Welcome.html)
+* [Default VPC and default subnets](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/default-vpc.html)
 
 ## Books
 
