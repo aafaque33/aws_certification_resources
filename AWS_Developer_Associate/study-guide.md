@@ -66,6 +66,7 @@
 
 * [VPC Common Scenarios](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Scenarios.html)
 * [VPC Limits](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Appendix_Limits.html)
+* [VPC Peering](http://docs.aws.amazon.com/AmazonVPC/latest/PeeringGuide/Welcome.html)
 
 ## Books
 
