@@ -65,6 +65,7 @@
 > ### VPC (Virtual Private Cloud)
 
 * [VPC Common Scenarios](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Scenarios.html)
+* [VPC Limits](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Appendix_Limits.html)
 
 ## Books
 
