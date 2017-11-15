@@ -71,6 +71,7 @@
 * [Nat gateway vs Nat instances](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/vpc-nat-comparison.html)
 * [Security groups vs Network access control lists](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Security.html)
 * [Ephemeral ports](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_ACLs.html#VPC_ACLs_Ephemeral_Ports)
+* [VPC flow logs](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/flow-logs.html)
 
 ## Books
 
